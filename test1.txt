@@ -1,10 +1,1 @@
- Volume in drive C is OSDisk
- Volume Serial Number is 0202-D4F8
-
- Directory of C:\Git-Projects
-
-25/06/2019  14:16    <DIR>          .
-25/06/2019  14:16    <DIR>          ..
-25/06/2019  14:16                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  125,420,388,352 bytes free
+Change 1
